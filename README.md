@@ -1,5 +1,5 @@
 # RGB_Light
-This is an light I made as a xmas gift for my girlfriend. It's a RGB light that can be controlled with a smartphone app using XYremote.
+This is a light I made as a xmas gift for my girlfriend. It's a RGB light that can be controlled with a smartphone app using XYremote.
 
 ## Content
 1. [Code (.ino)](https://github.com/smorap/RGB_Light/tree/main/RGB_BT)
