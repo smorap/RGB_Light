@@ -3,7 +3,8 @@ This is an app I made as a xmas gift for my girlfriend. It's a RGB light that ca
 
 ## Content
 1. [Code (.ino)](https://github.com/smorap/RGB_Light/tree/main/RGB_BT)
-2. Pictures
+2. Description
+3. Pictures
 
 ### Description
 It is a strip light that can be connected via Bluetooth using an ESP32 as MC (yeah, it's overkill but cheap too) with a smartphone app. The app is made with XYremote and I used the Arduine IDE for programming the ESP32.
