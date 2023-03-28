@@ -15,4 +15,5 @@ I put the relay because there was some noise that make the lights flashing when 
 <img src="https://github.com/smorap/RGB_Light/blob/main/img/IMG_PROTO.JPG" width=50% height=50%>
 <img src="https://github.com/smorap/RGB_Light/blob/main/img/IMG_ESP.JPG" width=50% height=50%>
 <img src="https://github.com/smorap/RGB_Light/blob/main/img/IMG_working.JPG" width=50% height=50%>
+<img src="https://github.com/smorap/RGB_Light/blob/main/img/IMG_light.jpg" width=50% height=50%>
 <img src="https://github.com/smorap/RGB_Light/blob/main/img/IMG_APP.PNG" width=50% height=50%>
