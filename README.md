@@ -14,7 +14,7 @@ I use a RGB strip not adressable, an ESP32 dev kit, a couple of regulators, tran
 I put the relay because there was some noise that make the lights flashing when it was supposed to be turn off. 
 
 ### APP
-App: RemoteXY, available for Android and IOS.
+App: RemoteXY, Available for Android and IOS.
 
 ### Pictures
 <img src="https://github.com/smorap/RGB_Light/blob/main/img/IMG_PROTO.JPG" width=50% height=50%>
